@@ -1,4 +1,4 @@
-Hi 👋 My name is Rodderick Garland
+###Hi 👋 My name is Rodderick Garland
 ==================================Full-Stack Web Developer------------------------(As of 2022) I found my passion for web development 4 years ago and i've been on a self-taught journey ever since. Solving problems, building cool applications, and the overall process of building web apps is super therapeutic to me.* 🌍  I'm based in Georgia* 🖥️  See my portfolio at [rodthedev.com](http://www.rodthedev.com)* ✉️  You can contact me at [rg6797@outlook.com](mailto:rg6797@outlook.com)* 🚀  I'm currently working on [An Entertainment Movie/Video App](http://entertainment-app-xi.vercel.app)* 🧠  I'm learning Next JS and Advanced React Concepts* 🤝  I'm open to collaborating on Anything React/Next.js related
 
 ### Skills
