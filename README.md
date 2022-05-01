@@ -5,8 +5,8 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
 
 -  I'm based in Georgia 🌍
 -  See my portfolio at [rodthedev.com](http://www.rodthedev.com) 🖥️
--  You can contact me at [rg6797@outlook.com](mailto:rg6797@outlook.com)* ✉️   
--  I'm currently working on [An Entertainment Movie/Video App](http://entertainment-app-xi.vercel.app)* 🚀
+-  You can contact me at [rg6797@outlook.com](mailto:rg6797@outlook.com) ✉️   
+-  I'm currently working on [A new Personal Portfolio Site](https://personal-portfolio-seven-woad.vercel.app/) 🚀
 -  I'm learning Next JS and Advanced React Concepts 🧠  
 -  I'm open to collaborating on Anything React/Next.js related 🤝
 
