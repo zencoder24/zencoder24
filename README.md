@@ -6,7 +6,7 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
 -  I'm based in Georgia 🌍
 -  See my portfolio at [rodthedev.com](http://www.rodthedev.com) 🖥️
 -  You can contact me at [rg6797@outlook.com](mailto:rg6797@outlook.com) ✉️   
--  I'm currently working on [Apex-Blogs](https://github.com/zencoder24/apex-blogs) and a [Todo List App](https://github.com/zencoder24/todo-app) 🚀
+-  I'm currently working on writing blogs for [Apex-Blogs](https://github.com/zencoder24/apex-blogs) and exploring [Supabase](https://supabase.com/)
 -  I'm learning Next JS and Advanced React Concepts 🧠  
 -  I'm open to collaborating on Anything React/Next.js related 🤝
 
@@ -27,6 +27,8 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
   <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30px"/>
   <img alt="Express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" height="30px"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30px"/>
+</p>
 </p>
 
 ## Tools
