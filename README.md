@@ -6,8 +6,8 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
 -  I'm based in Georgia 🌍
 -  See my portfolio at [rodthedev.com](http://www.rodthedev.com) 🖥️
 -  You can contact me at [rg6797@outlook.com](mailto:rg6797@outlook.com) ✉️   
--  I'm currently working on writing blogs for [Apex-Blogs](https://github.com/zencoder24/apex-blogs) and exploring [Supabase](https://supabase.com/)
--  I'm learning Next JS and Advanced React Concepts 🧠  
+-  I'm currently remaking my blog site [Apex-Blogs](https://github.com/zencoder24/apex-blogs) and exploring [Sanity](https://www.sanity.io)
+-  I'm learning Next JS 13 and Advanced React Concepts 🧠  
 -  I'm open to collaborating on Anything React/Next.js related 🤝
 
 ## Skills
