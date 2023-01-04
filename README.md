@@ -24,10 +24,9 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px"/>
   <img alt="MUI" src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="30px"/>
   <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30px"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30px"/>
-  <img alt="Express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" height="30px"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"/>
   <img alt="Supabase" src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30px"/>
+  <img alt="Strapi" src="https://img.shields.io/badge/Strapi-2F2E8B?logo=strapi&logoColor=fff&style=flat-square" height="30px" >
 </p>
 </p>
 
@@ -35,9 +34,11 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
 
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30px"/>
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat-square" height="30px" >
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30px"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="30px"/>
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30px"/>
+  
 </p>
 
 ## Socials
