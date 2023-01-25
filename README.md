@@ -6,8 +6,7 @@ I found my passion for web development 4 years ago and i've been on a self-taugh
 -  I'm based in Georgia 🌍
 -  See my portfolio at [rodthedev.com](http://www.rodthedev.com) 🖥️
 -  You can contact me at [rg6797@outlook.com](mailto:rg6797@outlook.com) ✉️   
--  I'm currently learning [Python](https://www.python.org/) using [Vim](https://www.vim.org/) 
--  I'm learning Next JS 13 and Advanced React Concepts 🧠  
+-  I'm currently learning [Python](https://www.python.org/) using [Vim](https://www.vim.org/) 🧠  
 -  I'm open to collaborating on Anything React/Next.js related 🤝
 
 ## Skills
